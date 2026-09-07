@@ -33,9 +33,8 @@ elif operacao == "/":
         print("Erro: Não existe divisão por zero")
 
 elif operacao == "**":
-    if num2 != 0:
-        resultado = num1 ** num2
-        print(f"Resultado: {resultado}")
+    resultado = num1 ** num2
+    print(f"Resultado: {resultado}")
 
 else:
     print("Operação inválida!")
