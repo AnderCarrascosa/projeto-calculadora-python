@@ -33,3 +33,12 @@ No terminal, dentro da pasta do projeto, execute:
 
 ```bash
 python3 calculadora.py
+
+### Executando pelo arquivo .sh
+
+O arquivo `executar.sh` foi criado para facilitar a execução do programa.
+
+Primeiro, dê permissão de execução ao arquivo:
+
+```bash
+chmod +x executar.sh
